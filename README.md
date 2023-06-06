@@ -1,4 +1,4 @@
-# Ahoj, já jsem Floxen! 👋
+# Hey.. Im Floxen! 👋
 
 
 ## Personal Info 🌟
