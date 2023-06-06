@@ -13,4 +13,12 @@
 
 ## Skills
 
-- ` HTML ` 60%
+### Programming
+
+  - ` HTML ` - 50%
+  - ` JS ` - 45%
+  - ` CSS ` 70%
+  - ` PHP & MySQL ` - 60%
+  - ` C# ` - 65%
+  - ` Java ` - 95%
+  - ` C++ ` - 30%
