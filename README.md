@@ -12,7 +12,7 @@
 - I create websites, work with servers and networks, and also work with operating systems
 - I enjoy playing games, recording, or streaming on YouTube
 
-## Skills
+## My skills 💪
 
   - ` HTML ` - 50%
   - ` JS ` - 45%
@@ -24,5 +24,10 @@
 
 ## My projects:
 
-  - My personal simple website: <https://floxen.xyz>
+  - My personal website: <https://floxen.xyz>
   - Education website about a DARKWEB: <https://nejsem.online>
+
+## Need a contact?
+
+  - Discord: fL0X3n#6969
+  - E-mail: fL0X3n@gmail.com
