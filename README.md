@@ -1,19 +1,18 @@
 # Ahoj, já jsem Floxen! 👋
 
+
 ## Personal Info 🌟
 
-- Přezdívka: Floxen/fL0X3n
-- Věk: 17
-- Lokace: Poděbrady 🌍
+- Nickname: Floxen/fL0X3n
+- Age: 17 🙋‍♂️
+- Locality: Poděbrady 🇨🇿
 
 ## Hobbies
 
-- Programování webových stránek, práce se serverama, sítí a operačníma systémama..
-- Hraní her, streamování, natáčení na YouTube..
+- I create websites, work with servers and networks, and also work with operating systems
+- I enjoy playing games, recording, or streaming on YouTube
 
 ## Skills
-
-### Programming
 
   - ` HTML ` - 50%
   - ` JS ` - 45%
@@ -22,3 +21,8 @@
   - ` C# ` - 65%
   - ` Java ` - 95%
   - ` C++ ` - 30%
+
+## My projects:
+
+  - My personal simple website: <https://floxen.xyz>
+  - Education website about a DARKWEB: <https://nejsem.online>
