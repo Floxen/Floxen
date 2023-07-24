@@ -1,13 +1,13 @@
 # Hey.. Im Floxen! 👋
 
-
 ## Personal Info 🌟
 
-- Nickname: Floxen/fL0X3n
+- Nickname: Floxen/fL0X3n/floxiceeq
 - Age: 17 🙋‍♂️
 - Locality: Poděbrady 🇨🇿
+- Btw i have girlfriend 👫
 
-## Hobbies
+## My Hobbies
 
 - I create websites, work with servers and networks, and also work with operating systems
 - I enjoy playing games, recording, or streaming on YouTube
@@ -22,10 +22,14 @@
 
 ## My projects:
 
-  - My personal website: <https://floxen.xyz>
+  - My personal website: <https://floxen.xyz>  
   - Education website about a DARKWEB: <https://nejsem.online>
+  - Public datastorage cloud: <https://wharesquare.eu>
+  - MineZee (very old): <https://minezee-offi.000webhostapp.com/>
 
 ## Need a contact?
 
-  - Discord: fL0X3n#6969
+  - Discord: fl0x3n
   - E-mail: fL0X3n@gmail.com
+
+# If you want make somethink amazing, don't worry contact me ✨
