@@ -24,7 +24,7 @@
 
   - My personal website: <https://floxen.xyz>  
   - Education website about a DARKWEB: <https://nejsem.online>
-  - Public datastorage cloud: <https://wharesquare.eu>
+  - SOON: <https://wharesquare.eu>
   - MineZee (very old): <https://minezee-offi.000webhostapp.com/>
 
 ## Need a contact?
